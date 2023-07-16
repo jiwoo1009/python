@@ -4,3 +4,4 @@ for x in range(10):
     t.fd(10)
     t.down( )
     t.fd(x*2)
+
